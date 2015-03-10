@@ -93,7 +93,7 @@ public class Main extends ActionBarActivity {
 
 
         // Here we define the URL which we're going to load / set the webView for.
-        myWebView.loadUrl("http://KNPhoenix.com");
+        myWebView.loadUrl("http://undergroundbiology.com");
 
         // Telling the cookie manager to start up and do its thing.
         CookieSyncManager.createInstance(this);
