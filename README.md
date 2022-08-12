@@ -1,3 +1,6 @@
+# NON-FUNCTIONING #
+I feel that's something very important to add. It's not only non-functioning but now it's out of date and honestly more for archive purposes.
+
 # Web App #
 The older version of the Trinova Labs web app.
 
