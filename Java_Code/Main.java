@@ -6,7 +6,7 @@
 */
 
 /*
-    Copyright 2014-2015 Fabrizio Martinez (KNPhoenix)
+    Copyright 2014-2022 Fabrizio Martinez (KNPhoenix) [KNPhoenix at the time of publish, WiggyWunka for all other purposes)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
